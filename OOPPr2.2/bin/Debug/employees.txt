@@ -1,0 +1,6 @@
+Ben Dover, 50000, 5
+Nill Kiggers, 60000, 7
+Nate Higgers, 40000, 2
+Volodymyr Impact, 10000, 10
+Hugh Janus, 100000, 1
+Cass Trate, 30000, 4
